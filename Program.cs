@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BestAuto213123
+namespace Test
 {
     class Program
     {
-        //123123работай
         static void Main(string[] args)
         {
         }
