@@ -8,7 +8,7 @@ namespace BestAuto213123
 {
     class Program
     {
-        //123123
+        //123123работай
         static void Main(string[] args)
         {
         }
